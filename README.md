@@ -1,5 +1,5 @@
 # 💫 About Me:
-Gen AI enthusiast working as AI/ML developer
+Gen AI enthusiast currently working as AI/ML developer
 
 
 ## 🌐 Socials:
