@@ -50,7 +50,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,python,r,mysql" />
-    <img src="https://skillicons.dev/icons?i=flask,tensorflow,pytorch,anaconda,fastapi,vscode,scikitlearn,matplotlib,numpy,pandas,opencv,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=flask,tensorflow,pytorch,anaconda,fastapi,vscode,scikitlearn,opencv,docker" /><br>
 </div>
 
 <br/>
