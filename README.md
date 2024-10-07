@@ -36,5 +36,19 @@
   <a href="https://www.snapchat.com/add/sarnaik1023?share_id=7KuIaoFjEgs&locale=en-GB" target="_blank">
      <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" target="_blank" /> 
   </a>
-     
+   <a href="https://x.com/Yash_Sarnaik23" target="_blank">
+     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank" /> 
+  </a>
+   <a href="https://www.threads.net/@yashsarnaik23" target="_blank">
+     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" target="_blank" /> 
+  </a>       
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,python,r,mysql" />
+    <img src="https://skillicons.dev/icons?i=flask,tensorflow,pytorch,tableau,powerbi,openai,claudeai,scipy,scikitlearn,matplotlib,numpy,pandas,opencv,streamlit,docker" /><br>
 </div>
