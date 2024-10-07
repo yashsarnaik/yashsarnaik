@@ -50,5 +50,19 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,python,r,mysql" />
-    <img src="https://skillicons.dev/icons?i=flask,tensorflow,pytorch,tableau,powerbi,openai,claudeai,scipy,scikitlearn,matplotlib,numpy,pandas,opencv,streamlit,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=flask,tensorflow,pytorch,anaconda,fastapi,vscode,scikitlearn,matplotlib,numpy,pandas,opencv,docker" /><br>
 </div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yashsarnaik/yashsarnaik/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
+
