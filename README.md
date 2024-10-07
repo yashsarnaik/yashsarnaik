@@ -67,9 +67,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-![](https://github-readme-stats.vercel.app/api?username=yashsarnaik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yashsarnaik&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashsarnaik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=yashsarnaik&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=yashsarnaik&theme=dark&hide_border=false" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsarnaik&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
@@ -78,6 +79,6 @@
 
 <br/>
 
-
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
