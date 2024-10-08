@@ -49,7 +49,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black" alt=".ENV" />
+
   <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white" alt="Anaconda" />
   <img src="https://img.shields.io/badge/AnyDesk-EF443B.svg?style=for-the-badge&logo=AnyDesk&logoColor=white" alt="AnyDesk" />
