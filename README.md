@@ -10,13 +10,11 @@
 
 <div align="center">
  
- 🔭 I'm currently working on **Gen-AI Business Solutions**
+ 🔭 I'm currently working on **AI/ML Business Solutions**
  
  🌱 I'm currently learning **Docker,AWS,Postman,Flask,GAN,VAE**
 
-💬 Ask me about **AI/ML,Deep Learning,Generative-AI,GPU**
-
-⚡ Fun fact **We often suffer more in our imagination**
+⚡ Connect me on social media from below
 
  </div>
 
